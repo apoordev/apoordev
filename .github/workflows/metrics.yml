@@ -32,7 +32,7 @@ jobs:
           plugin_lines: yes
           plugin_lines_sections: base, repositories
           plugin_repositories: yes
-          plugin_repositories_featured: ublue-os/bazzite, KyleGospo/City-17-Episode-One-Source
+          plugin_repositories_featured: socially-distant/bazzite, socially-distant/bluefin
           plugin_repositories_affiliations: owner, collaborator
           plugin_licenses: yes
           plugin_steam: yes
