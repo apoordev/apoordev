@@ -25,18 +25,14 @@ jobs:
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
           plugin_introduction: yes
           plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_colors: rainbow
-          plugin_languages_limit: 4
-          plugin_lines: yes
-          plugin_lines_sections: base, repositories
           plugin_repositories: yes
           plugin_repositories_featured: socially-distant/bazzite, socially-distant/bluefin
           plugin_repositories_affiliations: owner, collaborator
           plugin_licenses: yes
+          plugin_followup: yes
+          plugin_followup_sections: user
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: ${{ secrets.STEAM_UID }}
           plugin_steam_sections: player, recently-played
-          plugin_steam_achievements_limit: 0
+          plugin_steam_achievements_limit: 3
