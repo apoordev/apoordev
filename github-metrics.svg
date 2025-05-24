@@ -35,10 +35,10 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -477,7 +477,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.62
+                            Average per day at ~0.61
                         </div>
                     </section>
                 </div>
@@ -1448,6 +1448,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1591,15 +1596,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABgcDBQgEAgD/xAAxEAACAQMDAwIEBQQDAAAAAAABAgMABBEFBhIHITETQSJRYXEWIzJCgQgUFSQzUpH/xAAZAQACAwEAAAAAAAAAAAAAAAAAAgEDBAX/xAAuEQABBAAEAQoHAAAAAAAAAAABAAIDEQQhMWEFEhMUMkFCcZGh0SJRgbHB4fD/2gAMAwEAAhEDEQA/AM67hvZb64WWReHsAa4bFmV2YKTjyKnmzNdBuDSBcfCPvTM6ybTi0H/C6xY27Q2l9bxxke3Ljk1S+dscjY3auv0UHJLa5l/13QqcYyGqvhDesnEe9d8/xjirAg/t967tK2zq2qWlzc2FlNJbWq85ZF8KKtc5rBbjQUqSOVXj5GJ2CjBAPeqCZW9V+Pdc5A96vLe4CQMC6pInYhh5om6Q7Vbcm84vUiL2dsfVmGOxBpJZWwxukdoAhDGlP6doiyRsjZOSflXK989pqCTwrwCnw3fNGPV1YrXf11b26LFbxxKFRRigWRS8jcO/b370Qyc7GJNLQM13WchiiIRMyMQFP81pvXVtt49MJtPt0E+oWdmrxL5JbHtWZLcDIVjjv2Pypu6Tr34d0XamtOzG1e9eGbicc1A8GufxOF0nNuZ1gcvL9JXbJR6fYzzalFZRxE3Zf0+OO+R5FaLXW9P6YW2i6KY0ZZSJL52AIZWH6f4NckG2rXae49Z3ZKiS6clst5ZsRkGRu5X+M0mtw6m+sXM1xNKX9Zy45nPHJziqyRxNwb3BruSPx90dZWnVnaZ2/r/91aASaXffnwzL+klu/EfanD0UW20bbtpfzRiK61Jzbpn92KB9jvBvraP4R1ibjf2zGSxmY/qYn9P/AJRJuthY7/2nte3YoLEo/wAJwGcrg1mxLnyx9Cf1hZO7QMj9fdQdKSu6x/Hv68YeeIoVthxh7gZJox6t27Jvy7Q+eAzQdESrYbwDXawddHZXyCYaKeRFZi0S9/lTb23tqTc3TfQLKDHMX8hLMMhPqaVS/E+e30xWgej2tWeh9NpZ7qaON45HZFfyT9KycUkfFE18YtwPrRChxoKx3pp+nazty92vY3DtqWmWqyoeeVdj2Ix71m42voztDP8A8kZ4tj2I80faHue50zeUWqSN+U9wzPy78lPgV91c29Ho25I7q0jZbO/VZkY9wWbuarwTHYOQYdxvlCx4973QMslfdENNgm3I94GX07JBLzx2Boi1LT4d2b30bd2ihl9K7aC5iY5KKnbl9jU9rbRbJ6R3MkgVNTu4yY3xjOe4oH6M7lvLDdlvYqymDUH4y8h2HucfKsMofiXTYuLu20bgDP8AtkpzsheOqkKJ1BmUcSzovkZ5fal/ua2WC7xx4HAOMYps67qMN51gRtLhW+YERpgZHIeQaouvKv8AiWIm2SFDGuGVcAvjuK6ODxLmiKAjVt7itkwPYgrSIoio9Vl5k9qsb25xYrDBIRFyIK+1VcIks5jDKvcd1Ne7m65gLxChe4+prp0DqmU1iiPcILhiRnxnxWgdnQ2e+NtacmrBJJdOlJUDzxHYZrOcM/GVSwwPdqJ9tbyvNu3Xq2eQrdmU+4rBxHCuxEVRmnjMJXC0wP6gNZiMtloVuRm2Adsf9SOwpZWzxwqj28npsv7h2I+xri1rV7jWNTlvLuQNM58n5fKo4bkMoPHGOzD6VZgcN0aBsXn49qkCgrjbetPt7csGoQkNwbk5buTUu6t1X25uCal6PGKVpImCYJz7UNTXHNyTgqPGK8wszt6cYLE+PpVxgjMgmr4kUv/Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHQAAAgICAwEAAAAAAAAAAAAABwgABgIDAQQFCf/EAC4QAAEDAwIFAwQBBQAAAAAAAAECAwQABREGIQcIEjFRIkFhExRCcTIjNGKBkf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBWFg7AkZ8Vc9PcMdWajtqZ9ls0iRGJ6UqTg5IqmBRUlKCQE570xPJ9erijVtwt/wBZ1yG4ykdClEpSc9wPagGrXBvXrrq2xpyZ1IGTsK3HgvxAKUhenZYTnbYU9msdQR9KWOVeJbTjrTKepYQcbCl2uHNOn7x0wrS6I2MIKiDk0AgkcEdesu9LGn5T6QkK60AYz4/dQ8Fdfo9KtOTFZGUkAbGjJofmbRKvoj6milmG8QlDyMJDXyrzTORJDcuK3KjOBbLyAtCgdiCNjQfOnUXDLV2nbeqXebNIjRU7lxWMVTFZUMq2HtRd5lrtqFXEaZBvEt0NIbSW2UKKUdJzj09qEIPcA7Hvn2oMRTR8lVqUmderosApcaS0kkdsKpXASO1NxyXTQq1XSJj1N+v/AKqg97mk4jOaasqbJBQ24/NBS71pCgE4zSYJK3nSEJ61un+KR7/FG/m6un3fE1UFGPpsMNkq+SKy5SbHAvet56rk028IjKXGkrAIKs4oAe6yphxTcltSHMbA7YpyuU7XSbxplen50j6k+FlYKjuUE4Aqk84+l7PbV2m9QmAxcZiyw6hvAR0JTkHpHvQ35b7mbdxWszAKimW8G1FJxjud/IoC3zmaXbVGtuoo6MvKX9F4gdkpG1KkonbbAp7uadAVwykkpBCcknxSI56h6vYYFBycdKVZHVntTE8m94bhavukF1wBuUwlLQPuvOcUuwzkHurxXraTvsrTWoIV1hrIeiuBYSD3+KAk81ENcXi5NKgQlUdtQJ9+9DrSOpbjpK/xbtZni2+yoKAz6VfBHuKYDmNTA1tw/sWsrJ0vu/wmKR+ICdwf90sudhtlNBcOI/EO9a/nok3pxASgAIQhOEpPkCu/wDjiRxc04lWekSRkj9UPtsdjRu5TLKbnxH+5A/sUJe3/AGaA0c311TbtCQ4yiSqY6prA8YzSUUfObLWTF91U3aYLwejQsEkHIC8YIoCk4yEkEEUGNcVKlBddD63laaZkW6SkybJNT0SYp3PT5Tnsart6ajNXBf2DqXIyz1ox+IP4n5FdA7f5D3NQdITj3Pv4oN0ZlyS6hiO0px9xXSlKfy+BTK2+5w+CPDFTPoOsLkgkY7tJVukqoB6S1CdMyFzYrKF3BI/pKdSFJSfOK827XKZeJr0yc84+6s9SytROP14FB1Zsl2bMfkyFFbzyy4tXkk5NaKlSg//Z" alt="" />
                             <div class="about">
-                                <div class="name">Watch_Dogs 2</div>
+                                <div class="name">The Elder Scrolls IV: Oblivion Remastered</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Adventure
+                                        RPG
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1607,7 +1612,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        33 hours played
+                                        14 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1615,7 +1620,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 21 May 2025
+                                        Last played on 22 May 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1624,42 +1629,42 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            19 / 55 achievements unlocked
+                                            4 / 60 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFBP/EADEQAAEDAwIDBgMJAAAAAAAAAAECAwQFBhEAIRIxURMUFSIyQUKBoRYzUlNhcZGxwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCN2bajNaTJqNYleG0CCAqXLI83PZCB7qP0yNbj1zQqYOytGxIXdlemTU4ypbzvLc52HLO3U6y77liJRqBb8c4jMREzHgk7LedGST+w/vS6nRGkxqW06sIffZ4m2yvBX5BnH8g6A19rqTUXkRrwtCAyycjvNLZ7q+0DjBA9KsDfB551gXhbPghizafKFQok4cUWWkc9slCx7LHT9DphXrfZksVRCJWXmGQ64wEhXAQlRSc8wTjl00dsiUJ9uXDQZZJYVGVPjn8t5v3HQEbHroOO8HFVCJSqi1wlpcRMdeD6FoGCP91ZpVvyKtaVDhR4ClPvRo7wmcWERAlKTxg8+LfAT7752GoPCqAjx3IshJehOAkoHwqxspPQ6WxryuVEZDNJuVHdW0JbQh4NNqSkekHI39I+mgpcKhT6ZbVxU6pQFJkRWnXDOQoFE0LSo9pknIXt5h7bY2OoraKhBp1ZqThPAmIqMhJ+NbmBj5DSJ67rncjPir3U0IjqVIcQx2Ti1pwRgYG3PHz0Mq9WTMaYiREGPT2Pu2s7k/iVvudB/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAgMH/8QAJxAAAgIBBAEDBQEBAAAAAAAAAQIDBBEABRIxIQZBURMiI2FxFBX/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQF/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIAAxEEEvAhMTJxwf/aAAwDAQACEQMRAD8AS+makNnaoFnAkmjQuyBynkkgZAPgZH88a3Nt9VooLy0FjQWRXuRsxLrywpBOfOCyn9j+6A2plkpiuI+O8wq8lNyPMxUsSFI7BwQVPz11oHcd/wDrzWQzEQ3JKlhoiWQAomWXHeGKgcgT0NSpUzscc58lDOFAzOjV9voUD6h+pC4iowpYiSOZ0ABiLFfDYBJUn+EaG9S7NstH09LZsUUWWSNZSQ/JixA5BSx89nv+41DwepGsNYS7Yda9uw1y9gc3mwoKQBM/aoA4n5x8DVPvQm3vaLF/ck/5zPGtWnXkIMih3TlIc+5GAAOgD86V6mrYbjGVwwOBIndrDLVf81SzBFKZIirfmrPkniUBywIPk+3vjGks871ZPowuYuIBkZCQzOfuI5dhRnAGf2ck6pRX2+tXqiRdrFxFYO1uKX8g5HB+3AZSPnOlG71Uu35Lcu5bRE8zAlI/qKpP6BBx11rQ0ltanDDpJbkYjIgkFmSzmKZmkdwRG7EllbBOOXeDjBHXnPtpjtcyvHLdj25LJUh5bQmLtHlgSeLecDrPz7nOsa21f5JxLJe2qQKuMM0hXJHyoHnB6zpxHt20NQzJbptuOFSFq0k3I5IHFuZwVA848aOqtrY4Ttz1BUjjyn//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Who Am I</div>
-                                                <div class="unlocked">6 Feb 2025</div>
+                                                <div>Located the Shrine of Dagon</div>
+                                                <div class="unlocked">21 May 2025</div>
                                             </div>
-                                            <div class="description">Erase your past identity in the Blume servers</div>
+                                            <div class="description">Located the Shrine of Dagon, Main Quest</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUHBgH/xAAyEAABAwMCBAMFCQEAAAAAAAABAgMEBQYRACESMUFRBxUyFEJhcaETFiIjM1OBkcGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AI3ZtqM1sSahV5XltAggKlSyPxc9kIHVR+mRps5d9LpwW1Z1l05UYEAyakyZby+XPOyeXL46CvqWIlHt+345xGYipmPBJ2W86Mkn5D/umlsxUU+y/MpCMNnjcPDjKgDsM99hj56AT72UuorbYvCzoLMZRKBKpjHsrzecbgelWN9j31n7wtnyQxZtPlCoUScOKLLSOe2ShY6LHb4HWnvaEiVZzdSaT+WC08lR6BeR/uk9kSRPty4qBLJLCoyp8c/tvN9R2BGx76AO73VT4lKqTQSppURMdeD6Fo2I/wBGqF4hIFA8LqFT1hKZExtpKklJGyUhasZHcpz89SqDUBHjuRpCS9CcBJQPdVjZSex5aNnGTVmWEedqmR4+Qyia/wAKmuLn6j1wPpoKF4etpuXwqr1LwVSITbvCAnJ4SPtEY+OQoan1pKEKn1qpuE8CYioyEn31uYGP4Gu0pMyjMSSm4PYYz+A8iDJyt0Jzj0nuT/eltXqyZjbEWIgx4DH6bXUnqpW+50H/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQQGA//EACwQAAEEAAUDAgUFAAAAAAAAAAECAwQRAAUSITEGE0EiURQjcZHBMjRCgaH/xAAXAQADAQAAAAAAAAAAAAAAAAAABAUC/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAAxEEEiExIjLB/9oADAMBAAIRAxEAPwDchtxDyrPyxQAoDwK8Yjkzx8aYcVBflae4qzSGUEmitQHmjSR6jR4AvFbvcU08tjQXAm0h0kJvYC+T9sEdOwm4LTUSBJU84l1T78laAVvLKrUs+CrwORsB7DE4EAZMpYJjSWJCpLLKG3UrdSVo1JrWE1YF8nfYc44BTpWhRNtm9tO/m8W5lIgyIRQiXJeYDZCFPOKHaTyVlRo3X8r4425PyydGnwWZkBzuRl2UKAKeLSdvqD/mMruI3Y4gcdTh1KXE5LK7LgbW4A2FEWLJA/Jxlsty/NxCKFSJBSHND4bSlR0gJrTf6tlVV8AjzjZOCPKbcalp+UoC9iaHnjA2YdPsuRu3l06U2lZtWpRII9qJ/P8AWFdRVazBqz1GaLK1Uq4g+buKHR/UDapHfDRKNRNjZYqvrQOGuh32nem2HUrSUOOuqJDQbFlW4CRsBeJl9NBzpidlCpX7kg61N7D1JJ4s8J+9YQ6Xyp3KcpZhOyBJcQpxanSCLBJIG/sKxRrcDShGPln5E7ATeWX1xP/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Put Your Damn Pants On</div>
-                                                <div class="unlocked">6 Feb 2025</div>
+                                                <div>Pickpocket, Thieves Guild</div>
+                                                <div class="unlocked">18 May 2025</div>
                                             </div>
-                                            <div class="description">Buy some pants after the party</div>
+                                            <div class="description">Joined the Thieves Guild</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUBAgMGB//EAC8QAAEDAwIFAgQHAQAAAAAAAAECAwQFBhEAIRIxQVFhFCIVMnHBEzNCQ1OBobH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A43ZtqM1sSahV5Xw2gQQFSpZHu57IQOqj/mRplJvajUniZtS0KUmPy9TVG/VPOctyDsOWdu50NfUsRKPb9vxziMxFTMeCTst50ZJP0H/dILboMu4KkmJESlKfmcdWfa2nqT9h10GxsXnRay63Gum1KaGFZT6mkN+mfbzjcAe1WN9jzzpJeFs/BDFm0+UmoUScOKLLSOe2ShY6LHbwdMLhht2yJVHorTkya2OOZUywQW08P5bfPgThXuVnJzjYaiyJInW5cVAlElhUZU+Mf43m+o7AjY99AHd7ip8Wk1FoJU0uKmOvB+RaNiPvoql15FBo8uBHPDNeRxrfQrKVK6JHgJJ386RQagI8dyNISXoTmSUD9KsbKT2PLVlU1qQS5CnsuI6eoWG1DtnP00FHa/V5MMw3qjLcibpLZdOCO3keDphaahBgVqpOE8CYioyEn9xbmBj+hoFujNMpLtQqUVtkE7MOhxavoB51jq9WTMbYixEmPAYz+G11J6qVvudB/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFAgf/xAAqEAACAgEEAgEDAwUAAAAAAAABAgMRBAAFEiExQSITUWEGMnEUUoGh8P/EABgBAQADAQAAAAAAAAAAAAAAAAIAAQME/8QAIBEAAgEEAQUAAAAAAAAAAAAAAQIAAxESITEEE1HB8f/aAAwDAQACEQMRAD8A5zh5EqYsSWjcQLBJUcu7FL39vA6/3q5i4SthbhuW4iCCKKQ4zosDTNHICB/eL5AnyatSNRoc07dzW0OTYQSBfnEA1lgT1yPr7Xemxmodv205ckM8GNnlcmJW5vIC3Msxv5KeTAfm++61EoltkaMTOBqXlXDk2XFyNulV8qaRscYcUUkfA2adm5lUYhbC+CWrQciOKHZmbcdojj+qDbgcZQ9gEUxJNC+/Bu60nuefhyYG8Jh40seznco5IsVpSAtVYCg9EgHvsL4896n4U8+4JHthymZeJaOSySvMKGSm8lfR/B9aJ6c2LDgffcQqjQPMl7s4XcZOf1EgmZXKqpJYCxyF9H37961s21Z26O/9NjOyR47yMsYoyiPuq9m2UffsVp7ctrVYoK3GCOZY1UxS8hyAY9j4+D5Hdd6Js+97p+nPqph5mEY8hqJVkLXXVMRf8a6FrnthUteZGmM7txEsrIdoyiQTthlnnjjK0ebi1dwP3CqrwK6FG9KbTKUzElAeogXYgeKq/wDNevzqhmw5LEJJHBEIIVjV43RnIFkAvyon5X13X8VoOKs0oMMuTC7uSWd4lMjk0P39n/vOk1cYFfMoUzkDP//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Menace</div>
-                                                <div class="unlocked">6 Feb 2025</div>
+                                                <div>Closed an Oblivion Gate</div>
+                                                <div class="unlocked">25 Apr 2025</div>
                                             </div>
-                                            <div class="description">Buy a two handed weapon at the 3D printer</div>
+                                            <div class="description">Closed an Oblivion Gate, Main Quest</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+16 others...</div>
+                                            <div class="description ellipsis">+1 other...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1670,7 +1675,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 May 2025, 21:56:53 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 May 2025, 21:52:46 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
