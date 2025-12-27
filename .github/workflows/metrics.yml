@@ -29,10 +29,14 @@ jobs:
           plugin_repositories_featured: socially-distant/bazzite
           plugin_repositories_affiliations: owner, collaborator
           plugin_licenses: yes
-          plugin_followup: no
+          plugin_followup: yes
           plugin_followup_sections: user
-          plugin_steam: yes
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam_user: ${{ secrets.STEAM_UID }}
-          plugin_steam_sections: player, recently-played
-          plugin_steam_achievements_limit: 3
+          plugin_fortune: yes
+          #plugin_steam: yes
+          #plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          #plugin_steam_user: ${{ secrets.STEAM_UID }}
+          #plugin_steam_sections: player, recently-played
+          #plugin_steam_achievements_limit: 3
+          plugin_rss: yes
+          plugin_rss_source: https://news.ycombinator.com/rss
+          plugin_rss_limit: 4
