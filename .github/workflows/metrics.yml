@@ -21,18 +21,18 @@ jobs:
           retries: 3
           retries_delay: 300
           config_display: large
-          plugin_activity: yes
+          plugin_activity: no
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
           plugin_introduction: yes
           plugin_isocalendar: no
-          plugin_repositories: yes
+          plugin_repositories: no
           plugin_repositories_featured: socially-distant/bazzite
           plugin_repositories_affiliations: owner, collaborator
           plugin_licenses: yes
           plugin_followup: yes
           plugin_followup_sections: user
           plugin_fortune: yes
-          plugin_steam: no
+          plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: ${{ secrets.STEAM_UID }}
           plugin_steam_sections: player, recently-played
