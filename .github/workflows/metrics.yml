@@ -5,7 +5,7 @@ on:
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -32,11 +32,11 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: user
           plugin_fortune: yes
-          #plugin_steam: yes
-          #plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          #plugin_steam_user: ${{ secrets.STEAM_UID }}
-          #plugin_steam_sections: player, recently-played
-          #plugin_steam_achievements_limit: 3
+          plugin_steam: no
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: ${{ secrets.STEAM_UID }}
+          plugin_steam_sections: player, recently-played
+          plugin_steam_achievements_limit: 3
           plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
           plugin_rss_limit: 4
