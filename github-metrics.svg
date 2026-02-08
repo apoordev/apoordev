@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="982" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="962" class="large">
     <defs>
         <style/>
     </defs>
@@ -333,8 +333,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenCiv3: Open-source, cross-platform reimagining of Civilization III</div>
-                                <div class="date">6 Feb 2026</div>
+                                <div class="title">Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory</div>
+                                <div class="date">7 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Waymo World Model</div>
-                                <div class="date">6 Feb 2026</div>
+                                <div class="title">SectorC: A C Compiler in 512 bytes (2023)</div>
+                                <div class="date">7 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox</div>
-                                <div class="date">6 Feb 2026</div>
+                                <div class="title">Speed up responses with fast mode</div>
+                                <div class="date">7 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Monty: A minimal, secure Python interpreter written in Rust for use by AI</div>
-                                <div class="date">6 Feb 2026</div>
+                                <div class="title">Software factories and the agentic moment</div>
+                                <div class="date">7 Feb 2026</div>
                             </div>
                         </div>
                     </section>
@@ -377,7 +377,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #E7890C">Your fortune: Good Luck</b>
                         </div>
                     </section>
                 </div>
@@ -428,15 +428,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAQGBwEFCAMJ/8QALRAAAQMDAwMDBAEFAAAAAAAAAQIDBAAFEQYSIQcxQTJRcQgTFJGBIiNhYqH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A5mvF0fuUn7z4AVjHApDcRgUL4V71lptbjiUNpKlqOABQY3kHijcc5zW4Y0ve3xlm2yFj/Caaa0RqZ3huyy1fCRQR0LVzigKPipHI0LqeOgreskxCR3JSK0EmM9FcLchpbSx3ChQee4jyKat012DLQ+1jcD5FKeeORQn1Cgn2genM3UxMqUtMK2NHLjrnkecVO4t06baDkocgR13ec0eV79yc/Bqt7vr27TrGi1JcSwxuKlFkbd2fHFQ485J5Pmgvid19O5Qt9nZZQe2UJpRrr/eEYzCjgZ4IbAqtNBafRqfUkW2uyURm3VYK11e90+ne3R7DJktXZtDzSCoOqXlH6oFLf9RMZ4BF2sxcB4ynAFWHY52hOpMIR22Yn31jC2UJAcT/ADXGktn8eW+xuCw2so3DscHGaYs11mWee1Ntz62X2lBQKTjPz70F39V+g0izR3LnpcLfhoyVsZ3KSPmqFWhTbhQ4khxJwUnwa+g2h7u9ddJQpNxR/deZSHEkcKGO+K5r6w9OrPG1LLlw73DhFY3/AIjgJXk+aCi1+rgYp6zWedeZJYtrCpDwGdqaRWMGn7NeJdmlGRb3C06RjNA+vTGorc9vNvlsLSfUngj9Uw9cNVPMGI5IuBbPBRvPP/a3Vu6p3hpwCeGpDPkbBk/zW/Z6uQGiCLICfJO2gg9p0JqW6LxGtchQPdZFXL066Ix4chi4aofQ9tIUmOjjaf8Ab3qOudcFttbYVuUyodiCMVG731e1HcUKbaeQy2oYP9PP7oOhuovUO16OtCmYrzapYRsajp7j2rka+3iZe7q/OmurU64c8n0ikpkuRNdL0p9bzijyVnJryHJyOPnzQYX6qx7Z7U3cYL8KR9uS2UkilMEdwaDHFHFG0+1G0+1AUUbT7UbT7UGfPFCfUOaMHwDXvDiuypCGmEFSyaD/2Q==" alt="" />
+                            <img src="data:image/jpg;base64,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" alt="" />
                             <div class="about">
-                                <div class="name">Halo: The Master Chief Collection</div>
+                                <div class="name">Fallout 4</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action
+                                        RPG
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -444,7 +444,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        46 hours played
+                                        43 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -452,7 +452,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 6 Feb 2026
+                                        Last played on 7 Feb 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -461,42 +461,42 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            68 / 700 achievements unlocked
+                                            31 / 84 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQcIBAb/xAAvEAABAwMCAgkDBQAAAAAAAAABAgMEBREhABIiUQYHFCQxMkFxgSNCkRMVweHw/8QAFwEBAAMAAAAAAAAAAAAAAAAAAAECBf/EAB8RAAICAgIDAQAAAAAAAAAAAAECACEDETFREyJBcf/aAAwDAQACEQMRAD8An6DEVKctfagEAq/j+zgaKyTSIERAakpdnEje2GgUozkFZPm9hbWmHI/bOjMlyOT214oaCggn9NB4lKva2eEafUapvKjdUKlNxCqsLInnsrfePp/dw8zfHrrQJ8VLzLquqHMQqGuj9WUW4UxUWUryomBKUrPILTgH3GgtUpztPeUhwKFjtO4ZSeR/2dUjKqb6ab1vOJbiBdHe2wD2Vvu42fbw/PvqfWpLtSpzwluFxxuyAtXjtsSkfBB/OgIy+rC+4ZQaPM3QG3Kl0YlRorzokoKHAyHSEOpFkqG29r+U3OnnHh7I/VGlUunhVFUTUB21ru/0/Xi5i2L51NMGW/BkofjOKbdQbgjXXU6tUCbCYi1aiMrWymwcRZKjzNzbJOfHUVlPRhHDfsc0mEV07rbbTLp5crTu+AkTWu8DZ6cXPGbZ0iqmymldF40J0JEyS4qQ6nBKR5UJPxuPzoquv0GDGkNUakRmFLBbWt9IWVAjwtm/5tri5klcpaVLubCwKjcn3OhUYxvdxkIA39n/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgQFBgf/xAApEAABBAICAgAFBQEAAAAAAAABAgMEBQYRACESMQcTFSJBMlFhcYGh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAIhEAAgEEAQQDAAAAAAAAAAAAAQIRAAMEITESQWGBQnGR/9oADAMBAAIRAxEAPwA8GcxdvFaU2WNUz8tUGOlx36ShxKNp0guLI/Ws97PskcnQcWiZPf3D8Sur6hUR5tSIrlcytKVgKT4qAGgnYOwNg/zri2HyYMrAYD7Ti25jCIzMlkrPyVBJAS64gfqCd9/v0OUKSh+uTb1mDZmIltKEJchFQafJ8vuUCdlJ0et/n3xaqACaKWJMUzg9TU3NeTNpKtnwbUXZLtc0UOuBSt/LKUEgaT68fwSPXG8uxrHWcWy5DNFVIk18Z9AdbithSVhsqHYSOx13/R5Ow3KY9blTUKpglEV11DcdlBcUSvfiFq+787PXQG/R98G/zB2RU5bV27S0SXoknxdc0HPL5R0lxI6B0ABroa1/PDPh3hksdxEx2j68fvqqTKsm0sHcxPmsDGr7DH6ynlpfQ0ZENl9otPAqKVIB7T7/AOa5UevrhtqQ6icpDj6W0OrRoeYSkhIH9A86NjF5hsvAMfg3drRuFqAwhbMiS35NqDYBHZ2k8TiRPh63ZylyLbHXIGkGKyZ+yg6Pn5bVo7Ov35omYsQ67FU+KZlTo1h8UlVkNZduWLKQ424h1hcCWlCk678T0T716II5ppzNdkVJmV5FqVRXGIchwkyVvqUpbSvuUT1sfdrXrr3rfCx6yxhXxFs5z1pTR62IsiODKaShZICR4jfYCdn/AEcmpsYNPj+YwxbUT0WbBfQwpizbUvYQvwAR7JPkBr8c1v3rDTcDMXgfJo3yI40KLYxryuAQOmT2Hbg+6//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Metropolis</div>
-                                                <div class="unlocked">24 Oct 2023</div>
+                                                <div>Semper Invicta</div>
+                                                <div class="unlocked">14 Feb 2016</div>
                                             </div>
-                                            <div class="description">Halo 2: Complete Metropolis.</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcCBggD/8QALxAAAgIABAMGBQUBAAAAAAAAAQIDBAAFERIGITEHEyJRgZEUIyRBcTJCUmFyof/EABcBAQADAAAAAAAAAAAAAAAAAAACAwX/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADIREx/9oADAMBAAIRAxEAPwDPtOsbDMSwSJBq7noBg/Dw3AkC2MwzCpRhfmnxM3jYf4Xn7478J16zV2sWF7yCpBJZdOm5102j0J/4MPOvmc0kHZE7RVN2cuRf+mj+f8v93h8zr+eeNFlWpRnSdli1gDYhJuHK7wNPQzCpdhj5v8NLq6jz2Nz9sALdZq7jmHjYao46MMaYs5pOmXdrsqxVBJk822gfho/pxs6L4fX84RfFUNYV0nrp3UNmKKxGnXazDxD8ag4KFsU5wjYatSDJ8KW4FUQ2dVq2oXpylRrtZv0t78vXDwio91D2SI1zL9clcm/rciHcju/v4vMacteeMz1rLwbwoVkcbWVhqDi8ZfxHkk1KKCwZagRQDBbprfhBA6owKyKP6O7TzxF7FsA77C2gjY3p6Jly/tbiS5l+/Opt1DS5Ee+GzqPF6c/vhHcVWa5jMNYlq1eKOpEWGhZl13N7k+2CGacRZLHl09aoZbJkUqI6tNaMIJHViSzvp/EbQfucUq1ZewylgFVRoqL0UYI6oDz2GsAGT//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQQGAwf/xAApEAACAgICAQMDBAMAAAAAAAABAgMEBREGIQASIjEHFEETIzJRQmFx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAP/EAB8RAAEFAAEFAAAAAAAAAAAAAAEAAgMRIQQSMUFxgf/aAAwDAQACEQMRAD8AZ4PxLjlnhWAmsYDFSzy0IHd3qIzOxQEkkjsk+cxxzidmbIlMLQkkph2mrx1oYkjg9WlmBKe74bff4PXXd/02rW8lxfDyx3mr4+ri68Kqqgeux+mCWLflV2qkfG9/14Sed43HvYhy0dWBkV3NezXZvuYZHEhZde1tbZdn4IO/nyHlwulYAHEesT2FtpqDh/FkNT9PA4ySCwsioJqsTSKYz8lgvYIIOz3sj++oOccS45W4Vn56+AxUU0dCd0kSoisrBCQQQOiPJMJfbkvILV2/kLmCNiuslQer2JNLvchH8VBSFQEc96J6PjXKbiX/AKY5yxG4kDY2wpYDXqZUZSdf7I3/AMI8PFhlhjDZXdRs75q8v4gS1xxecNnnw3EOLYmG08Na3VhtmWT3IXCglCG66bW9jWiPGMXksJjmpVc8leaeBVjgmlh3HEqg6csw/bJDDewAeiPnoGF+LZfhmDiyGXx0V6rRjVS06Foz6B6lKE6O9aIPludz3G149Vgny1HIVERFldLAa5G3o1od+9ToA/0CT35YEoo7k/MKVu3G1CnKGSWWQ2Tr1GRiNa18qBs9977/AD5qshzDA2vplnaqW4a1hadiusUr++dih/cXfZDsSdnvvvzC5TH8dqxwWsTm6szNt/s570Rb0gL0XGgG7J7/AANfPhubjw8vGrEkWSxkV5onP2gm9bqoB/yB9JJ0Ogd9jwHe6wsFf//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Ripple Fire</div>
-                                                <div class="unlocked">24 Oct 2023</div>
+                                                <div>Legend Of The Wastes</div>
+                                                <div class="unlocked">31 Jan 2016</div>
                                             </div>
-                                            <div class="description">Halo 2: Beat the par score on Metropolis.</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAACAEEBQL/xAAtEAACAQMDAgMHBQAAAAAAAAABAgMEESEABRIGIgcxcRUjJFFhocETFDKx4f/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgMF/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAxES/9oADAMBAAIRAxEAPwA7xRtK4RBcn7a012uImPhULKxIXgrAFiT5DP11HT0rQVRkVUfiV7XFwbm3+6TdBVmoovDWYw0t9yzV/Dx+/wD4ju7c+ZPrnWjWqqnTLuydValdIhlO1xAvzqVjYEjgxF1IPkc/TWZLG0TlHFiPvpWV9Wafa/EmoENKW2170nw8fuRdlsvbjCg+udGXqGZp6sSFUQEsAiCwFjb8aLFVk6VcyFtahdAnXTJpfaKitEzREraOEqGc3wLkiwzpJhP0x4ZJBV7csW3SN7QU1cV6dOIZb93zAGL5xoq+ur9LXCGBIzEOSOrI4AuLEH8arRgw5Y5kVVgAwxNcS8HiZHPVbcybjOpoFFXFeoS3I27vmSM2zjRt6mNKdxb9iJliu10m4lkN8i4Jv5ar1Ves0DxrEOTuzO5Aubkk/wB6oaHYKOVO7FbYCME//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwUGCAT/xAAtEAACAQMDAwMDAwUAAAAAAAABAgMEBREGEiEAE0EHIjEUFmFRgbEjJDJxwf/EABcBAQEBAQAAAAAAAAAAAAAAAAQBAAP/xAAkEQABAwQBBAMBAAAAAAAAAAABAgMRAAQSMSETQfDxFFGBof/aAAwDAQACEQMRAD8Aqvp7rGzzVdhtNRoDTdbA8MFJvenRaiSTaFMjSMCpyck5H79Kvqna9OWeyo+mtLWCWYSj6ioS1RTJBHg8k7doycf6/HWZrEH+qt4p51if+ntkztC8DP8A0daxmFFNZq3syUvep6WUCZwyq+WQrvfA27s42fPI4PVv3F2+BaSDO5nz9/ho9sgvZZK1RhI+lBfbLcquy2dKSSGJatKeiiMcMm0hhsK4Jz7iP2Hx1L65qtCzaEvH2tpu1VVx7MsRZ7ekEkK9pz3kwvONuRyD0K6hdzLErOQpG/seIifA/jn9OkLRyJa9A3ypnYyQ3K0XClikD8LIkO/BB+Rg8HwenuNJCMjRG3VFeNUSq0tPQWmySsJlWqoY6iR2jOwFgW2o2MNiMoT84LYPSdfbrNS+mmmqV5XenrI5CS8jMsfZkCIy+Q+MEtnAIBAHiWtlZpi6WTQIuV70/LTUdupY6iKouEaPAVT3qVJyQeMr5KDPVTuetLFFbobJU0FpqTaZJkhnjuTmKQucs2FPuUkA4DY8fjoyXPkKaHTKsVSeQOIIGyO8E+TXkKZCylcBQ44O5H0D2mjvUAqZbvUzVLd2SYmYuFAzk8kgcDn+fz0m6Qs1WugtZVdG7LazYnlilmiEikvE3eiUk8MGT5Hj5HI6547HpS4O0f3LaaSdqU9qJq6NIId8a/5OCS3v5EYGRjBPGekKru2krD6K3TT9Hqiw1VUlpqYv7eqjBnlZGyQu7JJJA/U9dLu7bWmGvXrVa3t3EEdTfnuv/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Examiner</div>
-                                                <div class="unlocked">24 Oct 2023</div>
+                                                <div>Never Go It Alone</div>
+                                                <div class="unlocked">23 Nov 2015</div>
                                             </div>
-                                            <div class="description">Halo 2: Activate Terminal 3 on Metropolis.</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+65 others...</div>
+                                            <div class="description ellipsis">+28 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -507,7 +507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2026, 21:31:57 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Feb 2026, 22:15:11 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
