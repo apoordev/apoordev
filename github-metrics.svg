@@ -30,8 +30,8 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -333,8 +333,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How I use Claude Code: Separation of planning and execution</div>
-                                <div class="date">21 Feb 2026</div>
+                                <div class="title">I built Timeframe, our family e-paper dashboard</div>
+                                <div class="date">22 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU</div>
-                                <div class="date">21 Feb 2026</div>
+                                <div class="title">Loops is a federated, open-source TikTok</div>
+                                <div class="date">22 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Evidence of the bouba-kiki effect in naïve baby chicks</div>
-                                <div class="date">21 Feb 2026</div>
+                                <div class="title">Show HN: WARN Firehose – Every US layoff notice in one searchable database</div>
+                                <div class="date">22 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Parse, Don't Validate and Type-Driven Design in Rust</div>
-                                <div class="date">21 Feb 2026</div>
+                                <div class="title">The surprising power of daily rituals</div>
+                                <div class="date">22 Feb 2026</div>
                             </div>
                         </div>
                     </section>
@@ -377,7 +377,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #E7890C">Your fortune: Good Luck</b>
                         </div>
                     </section>
                 </div>
@@ -507,7 +507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2026, 21:43:08 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Feb 2026, 21:43:19 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
