@@ -333,8 +333,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor</div>
-                                <div class="date">9 Mar 2026</div>
+                                <div class="title">Tony Hoare has died</div>
+                                <div class="date">10 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Building a Procedural Hex Map with Wave Function Collapse</div>
-                                <div class="date">9 Mar 2026</div>
+                                <div class="title">U+237C ⍼ Is Azimuth</div>
+                                <div class="date">10 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The “JVG algorithm” only wins on tiny numbers</div>
-                                <div class="date">9 Mar 2026</div>
+                                <div class="title">Cloudflare crawl endpoint</div>
+                                <div class="date">10 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Remotely use my guitar tuner</div>
-                                <div class="date">6 Mar 2026</div>
+                                <div class="title">Agents that run while I sleep</div>
+                                <div class="date">10 Mar 2026</div>
                             </div>
                         </div>
                     </section>
@@ -507,7 +507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Mar 2026, 22:32:25 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Mar 2026, 22:31:51 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
