@@ -333,8 +333,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Git history command deserves more attention</div>
-                                <div class="date">13 Jul 2026</div>
+                                <div class="title">Vancouver PD website features Quick Escape button that wipes itself from history</div>
+                                <div class="date">14 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fundamentals of Wireless Communication</div>
-                                <div class="date">13 Jul 2026</div>
+                                <div class="title">TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access</div>
+                                <div class="date">14 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Building and shipping Mac and iOS apps without opening Xcode</div>
-                                <div class="date">13 Jul 2026</div>
+                                <div class="title">Bonsai 27B: A 27B-Class model that runs on a phone</div>
+                                <div class="date">14 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An Englishwoman who sketched India before photography took hold</div>
-                                <div class="date">13 Jul 2026</div>
+                                <div class="title">Dependabot version updates introduce default package cooldown</div>
+                                <div class="date">14 Jul 2026</div>
                             </div>
                         </div>
                     </section>
@@ -377,7 +377,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
@@ -507,7 +507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jul 2026, 22:53:15 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Jul 2026, 22:51:34 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
