@@ -333,8 +333,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PGSimCity - How PostgreSQL Works</div>
-                                <div class="date">26 Jul 2026</div>
+                                <div class="title">Our position on open-weights models</div>
+                                <div class="date">27 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Physically accurate black hole you can put in your room</div>
-                                <div class="date">23 Jul 2026</div>
+                                <div class="title">Benchmarking Opus 5 on SlopCodeBench</div>
+                                <div class="date">27 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Decker, a platform that builds on the legacy of Hypercard and classic macOS</div>
-                                <div class="date">26 Jul 2026</div>
+                                <div class="title">Astronauts describe persistent 'observer' sensation after 6 month missions</div>
+                                <div class="date">27 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">French firefighters face 'pyrocumulonimbus' for first time</div>
-                                <div class="date">26 Jul 2026</div>
+                                <div class="title">EYG: A Programming Language for Humans</div>
+                                <div class="date">27 Jul 2026</div>
                             </div>
                         </div>
                     </section>
@@ -507,7 +507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2026, 23:38:20 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jul 2026, 22:54:36 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
