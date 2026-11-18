@@ -333,8 +333,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Carnegie Mellon is putting computer science courses on YouTube for free</div>
-                                <div class="date">16 Nov 2026</div>
+                                <div class="title">Java4Shell: RCE in OpenJDK when processing Base64</div>
+                                <div class="date">17 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use</div>
-                                <div class="date">16 Nov 2026</div>
+                                <div class="title">ID.me terms required for IRS sign-in</div>
+                                <div class="date">17 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">BugMeNot has closed</div>
-                                <div class="date">16 Nov 2026</div>
+                                <div class="title">GPT‑6.2 Astra and Sol</div>
+                                <div class="date">17 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Optimizely compromised, served malware on Zoom, GitLab</div>
-                                <div class="date">16 Nov 2026</div>
+                                <div class="title">Quad9's withdrawal from France: A canary in the coal mine</div>
+                                <div class="date">17 Nov 2026</div>
                             </div>
                         </div>
                     </section>
@@ -472,7 +472,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Nov 2026, 02:25:08 (timezone America/New_York) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 18 Nov 2026, 01:49:46 (timezone America/New_York) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
