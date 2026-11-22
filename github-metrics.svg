@@ -333,7 +333,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hurried Announcement: Alessandro Masullo GRH</div>
+                                <div class="title">Toyota, Nissan, and Honda to standardize parts to lower costs</div>
+                                <div class="date">21 Nov 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'</div>
                                 <div class="date">20 Nov 2026</div>
                             </div>
                         </div>
@@ -342,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</div>
-                                <div class="date">20 Nov 2026</div>
+                                <div class="title">Lean verification of the Riemann Hypothesis</div>
+                                <div class="date">21 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,17 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Inkling 2 Mini</div>
-                                <div class="date">20 Nov 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">NINLIVE: The Nine Inch Nails live archive</div>
-                                <div class="date">20 Nov 2026</div>
+                                <div class="title">Sandwich Simulator</div>
+                                <div class="date">21 Nov 2026</div>
                             </div>
                         </div>
                     </section>
@@ -377,7 +377,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
@@ -472,7 +472,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2026, 01:31:55 (timezone America/New_York) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 22 Nov 2026, 00:59:58 (timezone America/New_York) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
