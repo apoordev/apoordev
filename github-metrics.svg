@@ -333,8 +333,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Free alternative TV network built from the Internet Archive's forgotten videos</div>
-                                <div class="date">22 Nov 2026</div>
+                                <div class="title">2035 Came Early</div>
+                                <div class="date">24 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">XNU Linux: Full OS X GUI Userspace on Linux</div>
-                                <div class="date">22 Nov 2026</div>
+                                <div class="title">Ladybird is now in alpha</div>
+                                <div class="date">23 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Masullo on the Riemann Hypothesis</div>
-                                <div class="date">22 Nov 2026</div>
+                                <div class="title">Stalwart is now a drop-in replacement for Microsoft Exchange</div>
+                                <div class="date">23 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth</div>
-                                <div class="date">22 Nov 2026</div>
+                                <div class="title">AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years</div>
+                                <div class="date">24 Nov 2026</div>
                             </div>
                         </div>
                     </section>
@@ -377,7 +377,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #6023F8">Your fortune: Outlook good</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
@@ -472,7 +472,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Nov 2026, 01:52:02 (timezone America/New_York) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 24 Nov 2026, 04:18:31 (timezone America/New_York) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
