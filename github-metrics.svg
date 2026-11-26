@@ -333,8 +333,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Matrix Multiplication is Θ(n^2.25) [pdf]</div>
-                                <div class="date">24 Nov 2026</div>
+                                <div class="title">Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening</div>
+                                <div class="date">25 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Button Sounds – collection of professionally-recorded button clicks and presses</div>
-                                <div class="date">24 Nov 2026</div>
+                                <div class="title">1Password Security Incident</div>
+                                <div class="date">25 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Models Can Communicate via Inference Servers Despite Being Sandboxed</div>
-                                <div class="date">24 Nov 2026</div>
+                                <div class="title">Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years</div>
+                                <div class="date">26 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Old Nvidia and ATI tech demos, running again in the browser</div>
-                                <div class="date">24 Nov 2026</div>
+                                <div class="title">Much shorter version of GRH Lean verification from Anthropic</div>
+                                <div class="date">25 Nov 2026</div>
                             </div>
                         </div>
                     </section>
@@ -377,7 +377,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #6023F8">Your fortune: Outlook good</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
@@ -472,7 +472,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2026, 02:52:57 (timezone America/New_York) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 26 Nov 2026, 02:43:50 (timezone America/New_York) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
